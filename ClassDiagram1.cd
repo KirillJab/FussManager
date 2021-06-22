@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SuetaManager.AccountInfoForm" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABFATAIAJAACACABAQCABAAAAAAAAAAAQCAAAA=</HashCode>
+      <FileName>AccountInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.CalendarDayControl" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAgAAiAIAAAAAACAAAACAIAAAAACAAAAAoAAAAA=</HashCode>
+      <FileName>CalendarDayControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.CalendarForm" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAgAQCAMAyAAAACAAACCAAAAAAAAAIAAAAQAAAA=</HashCode>
+      <FileName>CalendarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.DataAccessLayer" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAACAAAAAAAAQAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.ControlDecorator" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControlDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.CurrentPlanForm" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIBAAACACIAAAEABMCAUAACAh5AAAgBCBCkAgCAAQA=</HashCode>
+      <FileName>CurrentPlanForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.LoginForm" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAhgMQLAOEJAAAAiSQcACCAkQAQIQEIAAIQL/AwQ=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.MainForm" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAYYYACSASAKCJAAILSBOIJawBIAhIUIAQJJgAwwEAg=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.MemeForm" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MemeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Program" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.RegistrationForm" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIBgIACAEAJAAAACSACACBAEAAAAAJYAAAQJ/AgQ=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.TimeControl" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.WeekForm" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QwChAGwAQCAMArCAKgCQAACSBJI/AQACAIAACAIECQA=</HashCode>
+      <FileName>WeekForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.WeekTaskControl" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACBAAACAIAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>WeekTaskControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.Activity" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAQQAAAEAgAAAAUAAAAFAQA=</HashCode>
+      <FileName>Classes\Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.CalendarDayDecorator" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CalendarDayDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.CalendarDayOutDecorator" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CalendarDayOutDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.CalendarDayTodayDecorator" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CalendarDayTodayDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.Day" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Classes\Day.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.EmailHelper" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAIAAAAAAQAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\EmailHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.Month" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Classes\Month.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.NonPremiumUser" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEEAAAAAAAAgAAAAQAEAAQAAEAAAQBAABAAAAAASAA=</HashCode>
+      <FileName>Classes\NonPremiumUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.PremiumUser" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAQAEAAQAAEAAAQBAABAAAAAASAA=</HashCode>
+      <FileName>Classes\PremiumUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.Schedule" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAABAAAQAAAAAA=</HashCode>
+      <FileName>Classes\Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.ScheduleSerializer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ScheduleSerializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SuetaManager.Classes.StandartJsonSettingsProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\StandartJsonSettingsProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SuetaManager.Classes.User" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAQAEAAQAAAAAAAACABAAAgAASAA=</HashCode>
+      <FileName>Classes\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.UserManager" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAAAIAAAUABAAIBAAAAIAAAAAAgAAAAAAAgAAA=</HashCode>
+      <FileName>Classes\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.UserManagerSerializer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\UserManagerSerializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SuetaManager.Classes.WeekTaskDecorator" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\WeekTaskDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Classes.Year" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAA=</HashCode>
+      <FileName>Classes\Year.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Properties.Resources" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuetaManager.Properties.Settings" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SuetaManager.Classes.ISerializer&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ISerializer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SuetaManager.Classes.ISettingsProvider" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ISettingsProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
